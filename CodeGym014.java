@@ -10,5 +10,7 @@ public class CodeGym014 {
      String imie3 = bufferedReader.readLine();
      
      System.out.println(imie1 +" + " +  imie2 + " + " + imie3 +  " = " + "Czysta miłość. Ooo la la!");
+
     }
+
 }
