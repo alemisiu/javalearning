@@ -1,4 +1,4 @@
-
+Code
 Napisz metodę wyswietlNajblizszaDziesiatce. Metoda powinna wyświetlać argument, który znajduje się najbliżej 10.
 Na przykład z liczb 8 i 11, 11 jest najbliżej 10. Jeśli obie liczby są równie blisko 10, to wyświetli się którakolwiek z nich.
 
