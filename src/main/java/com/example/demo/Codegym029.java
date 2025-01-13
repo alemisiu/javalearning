@@ -19,14 +19,12 @@ public class Codegym029 {
             liczby.add(liczba);
             suma += liczba;
         }
-
         if (liczby.size() > 0) {
             double srednia = (double) suma / liczby.size();
             System.out.printf("Średnia arytmetyczna: %.1f%n", srednia);
         } else {
             System.out.println("Nie wprowadzono żadnych liczb.");
         }
-
         scanner.close();
     }
 }
