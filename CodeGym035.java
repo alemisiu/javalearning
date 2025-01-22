@@ -1,5 +1,5 @@
 
-    package pl.codegym.task.task05.task0525;
+ 
 
 /* 
 Kaczka to za mało
