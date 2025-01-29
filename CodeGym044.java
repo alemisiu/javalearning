@@ -10,6 +10,8 @@ public class CodeGym044 {
 }
 
 class Kot {
+    public static int licznikKotow;
+
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
