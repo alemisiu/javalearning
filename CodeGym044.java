@@ -3,7 +3,7 @@ public class CodeGym044 {
     public static void main(String[] args) {
         // tutaj wpisz swój kod
         for(int i =0; i< 50000;i++){
-            Kot kot = new Kot();
+           Kot kot = new Kot();
             Pies pies = new Pies();
         }
     }
