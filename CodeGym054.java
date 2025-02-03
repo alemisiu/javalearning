@@ -7,6 +7,9 @@ class CodeGym054 {
 
         // Wyświetlenie wartości zmiennej licznikKotow
         System.out.println("Licznik kotów: " + Kot.licznikKotow);
+
+        // Resetowanie licznika kotów
+        Kot.resetLicznikKotow();
     }
 }
 
@@ -16,5 +19,10 @@ class Kot {
     // Konstruktor bez parametrów
     public Kot() {
         licznikKotow++;
+    }
+
+    // Metoda statyczna do resetowania licznika kotów
+    public static void resetLicznikKotow() {
+        licznikKotow = 0;
     }
 }
